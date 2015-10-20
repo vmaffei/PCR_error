@@ -3,7 +3,7 @@
 ## INSTRUCTIONS
 * Copy PCR_error.py contents to interpretor
 
-## pcrror.py
+## pcrror.py (Pronounced P-C-Eh-rar)
 Multithreaded PCR error simulator
 
 ### Arguments
